@@ -7,6 +7,6 @@ public class EvenFirstTest {
 
     @Test
     public void test_01() {
-        Assertions.assertArrayEquals(new int[]{6,2,4,5,3,1}, EvenFirst.evenFrist(new int[]{1,2,3,4,5,6}));
+        Assertions.assertArrayEquals(new int[]{6,2,4,5,3,1}, EvenFirst.evenFirst(new int[]{1,2,3,4,5,6}));
     }
 }

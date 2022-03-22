@@ -1,7 +1,7 @@
 package com.arsatapathy.array;
 
 public class EvenFirst {
-    public static int[] evenFrist(int[] array) {
+    public static int[] evenFirst(int[] array) {
         int even = 0;
         int odd = array.length - 1;
 
