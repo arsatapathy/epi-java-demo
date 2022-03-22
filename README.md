@@ -1,2 +1,2 @@
 # epi-java-demo
-- This is a <b> EPI Java </b> demo project using <b> Java </b>
+- This is a <b> EPI </b> demo project using <b> Java </b>
